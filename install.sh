@@ -8,7 +8,7 @@ cp colors.properties ~/.termux/colors.properties
 cp termux.properties ~/.termux/termux.properties
 
 echo -e "\e[32m✔ Theme files installed\e[0m"
-echo -e "\e[33m⚠ Please place Ethnocentric font as ~/.termux/font.ttf\e[0m"
+echo -e "\e[33m⚠ Please place Ethnocentric font as ~/.termux/font.otf\e[0m"
 
 termux-reload-settings
 
